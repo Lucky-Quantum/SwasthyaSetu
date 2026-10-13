@@ -1,5 +1,6 @@
 # SwasthyaSetu
-<img width="2752" height="1536" alt="banner" src="https://github.com/user-attachments/assets/a7be0960-8884-4f23-878a-f43b82a875cb" />
+<img width="1672" height="940" alt="banner" src="https://github.com/user-attachments/assets/ec9a4c75-7207-4b7c-9a4e-7c55a30979d5" />
+
 
 ### Integrated Rural Care Continuity & Referral Coordination Platform
 
